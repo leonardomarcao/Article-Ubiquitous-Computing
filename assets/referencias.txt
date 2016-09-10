@@ -1,0 +1,60 @@
+1.	da Costa, C. A., Yamin, A. C., and 	Geyer, C. F. R. (2008). Toward a general software infrastructure for 	ubiquitous computing. IEEE Pervasive Computing, 7(1):64-73. 
+
+2.	Endres, C., Butz, A., and MacWilliams, 	A. (2005). A survey of software infrastructures and frameworks for 	ubiquitous computing. Mobile Information Systems, 1:41-80. IEEE, 	Pervasive Computing. ISSN 1536-1268.
+
+3.	Julien, C. and Roman, G.-C. (2006). 	Egospaces: Facilitating rapid development of context-aware mobile 	applications. IEEE Transactions on Software Engineering, 32(5):281-298.
+
+4.	Mamei, M. and Zambonelli, F. (2009). 	Programming pervasive and mobile computing applications: The tota 	approach. ACM Trans. Softw. Eng. Methodol., 18(4):1-56.
+
+5.	Murphy, A. L., Picco, G. P., and 	Roman, G.-C. (2006). LIME: A coordination model and middleware 	supporting mobility of hosts and agents. ACM Transactions on Software Engineering and Methodology (TOSEM), 15(3):279-328.
+
+6.	Satyanarayanan, M. (2001). Pervasive 	computing: vision and challenges. Personal Communications, IEEE, 	8(4):10-17.
+
+7.	Lei Tang, Zhiwen Yu, Xingshe Zhou, Hanbo Wang and Christian Becker (2011). Supporting rapid design and evaluation of pervasive 	applications: challenges and solutions. Personal and Ubiquitous 	Computing, Springer, 15(3):253-269.
+
+8.	Springer, Personal and Ubiquitous Computing. ISSN 1617-4909 (Print) 1617-4917 	(Online).
+
+9.	Vieira, V., Tedesco, P., Salgado, A. C. (2009) "Modelos e Processos 	para o Desenvolvimento de Sistemas Sensíveis ao Contexto", 	Jornadas de Atualização em Informática (JAI'09), chapter 8, pp. 	381-431, Porto Alegre: UFRGS, Editora SBC.
+
+10.	Weiser, M. (1991). The computer for the twenty-first century. Scientific American, 65(3):94-104. 
+
+11.	Ronzani, D.(2000). THE BATTLE OF CONCEPTS: UBIQUITOUS COMPUTING, PERVASIVE COMPUTING AND AMBIENT INTELLIGENCE IN MASS MEDIA. (p.1)
+
+12.	http://www2.parc.com/csl/members/weiser/(06//04/2011 - 10:00min)
+13.	http://library.stanford.edu/weiser/Bio.html  (06//04/2011 - 10:00min) 
+14.	http://en.wikipedia.org/wiki/Intelligent_environments (27/04/2011 - 00h00min)
+
+15.	EMILIANI AND STEPHANIDIS (2005). Universal access to ambient intelligence environments: Opportunities and challenges for people with disabilities.
+
+16.	Towards a Better Understanding of Context and Context-Awareness, Anind K. Dey and Gregory D. Abowd. Visualization and Usability Center and College of Computing, Georgia Institute of Technology, Atlanta, GA, USA 30332-0280.
+
+17.	Computação Ubíqua: Princípios, Tecnologias e Desafios. Regina Borges de Araujo. Departamento de Computação – Universidade Federal de S. Carlos (UFSCar)
+
+18.	THE BATTLE OF CONCEPTS: UBIQUITOUS COMPUTING, PERVASIVE COMPUTING AND AMBIENT INTELLIGENCE IN MASS MEDIA. Daniel Ronzani. Copenhagen Business School, Centre for Applied ICT
+
+19.	http://en.wikipedia.org/wiki/Wearable_computer (27/04/2011 - 10h00min)
+
+20.	http://en.wikipedia.org/wiki/Mobile_device (27/04/2011 - 11h00min)
+
+21.	http://en.kioskea.net/faq/9081-wifi-description-and-explanations#introduction (28/04/2011 – 8h30min)
+ 
+22.	http://www.bluetomorrow.com/about-bluetooth-technology/general-bluetooth-information/what-is-bluetooth-technology.html (28/04/2011 - 9h00min)
+
+23.	http://tecnologia.uol.com.br/produtos/ultnot/2008/06/26/ult2880u711.jhtm (28/04/2011 - 10h00min)
+
+24.	Tanembaum, Andrew. Steen, Maarten (2002) "Distributed systems, principles and paradigms", Amsterdam, editora Prentice Hall.
+
+25.	Elson, Jeremy. Etrin, Deborah (2006)“Wireless sensor networks”universidade da Califórnia, Los Angeles.
+
+26.	http://www.media.mit.edu/wearables/ (20/04/2011-18:00)
+
+27.	http://www.advancedimagingpro.com/article/article.jsp?siteSection=38&id=3266 (20/04/2011 - 18:00)
+
+
+28.	The Proceedings of The Third International Symposium on Wearable Computers (ISWC '99), San Francisco, CA, October 18-19 1999, pp. 141-149. 
+
+29.	Klara Nahrstedt, Dongyan Xu, DuangdaoWichadakul. QoS-Aware Middleware for Ubiquitous and Heterogeneous Environments
+
+30.	João Pedro Sousa e David Garlan. Aura: An Architectural Framework for User Mobility in Ubiquitous Computing Environments
+
+31.	Shankar R. Ponnekanti, Brian Lee, Armando Fox, Pat Hanrahan, and Terry Winograd. ICrafter : A Service Framework for Ubiquitous Computing Environments.
